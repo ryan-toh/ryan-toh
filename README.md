@@ -1,6 +1,6 @@
 @ryan-toh
 
-python newbie
+rookie developer. Has worked in C, Python & Swift.
 
 <!---
 ryan-toh/ryan-toh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
