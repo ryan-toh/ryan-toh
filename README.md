@@ -1,6 +1,8 @@
 @ryan-toh
 
-rookie developer. Has worked in C, Python & Swift.
+hello! y1 cs student with a few personal projects hosted here. 
+
+have some experience in Swift, C & Python.
 
 <!---
 ryan-toh/ryan-toh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
